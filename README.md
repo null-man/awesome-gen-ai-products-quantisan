@@ -13,6 +13,9 @@ A list of Generative AI products that are solving real-world problems in novel w
 ## Creative
 
 - [Descript](https://www.descript.com) ([blog](https://www.descript.com/blog)): edit audio and video by simply editing text like a doc
+- [TeslaWraps](https://teslawraps.design): browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account
+- [PromptImage](https://promptimage.cloud): free AI image & video studio with a prompt library; signup credits, no card required
+- [GrokVideo Studio](https://grokvideogenerator.dev): independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits
 
 ## Education
 
