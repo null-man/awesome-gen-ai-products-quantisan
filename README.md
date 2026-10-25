@@ -16,6 +16,9 @@ A list of Generative AI products that are solving real-world problems in novel w
 - [TeslaWraps](https://teslawraps.design): browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account
 - [PromptImage](https://promptimage.cloud): free AI image & video studio with a prompt library; signup credits, no card required
 - [GrokVideo Studio](https://grokvideogenerator.dev): independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 ## Education
 
